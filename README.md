@@ -3,5 +3,6 @@ This is a repository where all my Test's and Assignment work shall be stored for
 
 
 ## Module-2 Assignment: 
-[Module-2 Assignment](Faysal-Ezaz.github.io/FaysalModule-2-Solution/index.html)
+[Module-2 Assignment](Faysal-Ezaz.github.io/FaysalModule-2-Solution
+/index.html)
 
